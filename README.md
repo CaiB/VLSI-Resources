@@ -33,7 +33,8 @@ https://www.youtube.com/@jinl2
 
 ## Scientific Journals
 **IEEE Open Journal of the Solid-State Circuits Society**  
-Open-Access IEEE Journal related to IC design https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782712
+Open-Access IEEE Journal related to IC design  
+https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782712
 
 
 ## Blogs
@@ -55,8 +56,8 @@ Day 2 VOD: https://www.youtube.com/watch?v=sunruF6ryso
 
 # Specific Problems/Implementations
 ## Digital Oversampling / Clock Recovery
-https://docs.xilinx.com/v/u/en-US/xapp1294-4x-oversampling-async-dru
-https://ieeexplore.ieee.org/document/5657866
+https://docs.xilinx.com/v/u/en-US/xapp1294-4x-oversampling-async-dru  
+https://ieeexplore.ieee.org/document/5657866  
 https://past.date-conference.com/proceedings-archive/2010/DATE10/PDFFILES/IP2_04.PDF
 
 
