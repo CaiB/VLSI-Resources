@@ -80,3 +80,8 @@ Almost the same as V6, just with some limitations removed:
 ## MP3 Encoding/Decoding
 Mostly software-focused, but also with explanations of the format standard and some hardware information  
 http://www.mp3-tech.org/
+
+## Quartus Timing Analysis
+Setup of constraints and analysis in Intel Quartus  
+https://github.com/CaiB/VLSI-Resources/blob/main/Documentation/mnl_timequest_cookbook-683081-666281.pdf  
+Originally downloaded from https://cdrdv2-public.intel.com/666281/mnl_timequest_cookbook-683081-666281.pdf
