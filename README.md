@@ -53,8 +53,20 @@ Day 1 VOD: https://www.youtube.com/watch?v=wvPZREaP7E0
 Day 2 VOD: https://www.youtube.com/watch?v=sunruF6ryso
 
 
-
 # Specific Problems/Implementations
+
+## FPGA General Information
+### Xilinx Documentation
+**Flip-Flop coding guidelines**  
+https://docs.xilinx.com/r/en-US/ug901-vivado-synthesis/Flip-Flops-and-Registers-Control-Signals
+ 
+**General IO Documentation (pdf)**  
+https://docs.xilinx.com/api/khub/documents/IbGcnPFe6eF19RHma_Y~IA/content?Ft-Calling-App=ft%2Fturnkey-portal&Ft-Calling-App-Version=3.11.45&filename=ug471_7Series_SelectIO.pdf
+
+**SerDes IO Documentation (pdf)**  
+Check with specific datasheet to see if it is applicable, Does not apply to Spartan 7 devices  
+https://docs.xilinx.com/api/khub/documents/SgVweevU5cLv0LyXoCVoPg/content?Ft-Calling-App=ft%2Fturnkey-portal&Ft-Calling-App-Version=3.11.41&filename=ug476_7Series_Transceivers.pdf 
+
 ## Digital Oversampling / Clock Recovery
 https://docs.xilinx.com/v/u/en-US/xapp1294-4x-oversampling-async-dru  
 https://ieeexplore.ieee.org/document/5657866  
