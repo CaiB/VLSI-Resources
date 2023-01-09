@@ -37,6 +37,18 @@ Open-Access IEEE Journal related to IC design
 https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782712
 
 
+## Whitepapers
+**Cliff Cummings/Sunburst Design**  
+Tons of super helpful papers that explain SystemVerilog coding practices  
+http://www.sunburst-design.com/papers/  
+> Personal recommendation: Finite State Machine (FSM) Deisgn & Synthesis using SystemVerilog
+
+**Stuart Sutherland**  
+Great papers on verification, asserts, etc  
+https://sutherland-hdl.com/papers.html  
+> Personal recommendation: Who Put Assertions In My RTL Code? And Why?
+
+
 ## Blogs
 **Chips and Cheese**  
 Highly detailed articles, often about modern CPU and GPU architectures and their performance characteristics  
